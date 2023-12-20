@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <!-- ,dotnet,unity,py,html,css,,-->
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,py,html,css,sqlite,git,github,figma,visualstudio,discord)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&custom_title=Sebastian+GitHub+Stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&custom_title=Sebastian%20GitHub%20Stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastiH96)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight&layout=compact)
