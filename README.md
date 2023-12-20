@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=bastiH96)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- ,dotnet,unity,py,html,css,,-->
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,py,html,css,sqlite,git,github,figma,visualstudio,discord)](https://skillicons.dev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
