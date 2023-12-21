@@ -1,10 +1,4 @@
-### Hi there 👋 I'm Sebastian. 😁
-
-<!--
-**bastiH96/bastiH96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+# Hi there 👋 I'm Sebastian. 😁
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bastiH96)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -22,4 +16,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&custom_title=Sebastian%20GitHub%20Stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastiH96)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight&layout=compact) -->
+
