@@ -4,7 +4,7 @@
 
 - 📚 I’m currently working on my [BachelorProject](https://github.com/bastiH96/BachelorProject.git). It's a projects for my bachelor thesis in which I compare Maui and WPF based on there performance, complexity and development effort for developing desktop applications for Windows.
 
-- 🕹 For private use and for some of my work colleagues, I am also working on [ShiftcomparingAppMaui](https://github.com/bastiH96/ShiftcomparingAppMAUI.git) . This is an app in which the user can create any number of shift plans with different shiftpatterns and compare them with each other. It should be possible to print the shift plans in the app and as CSV file so that family members or friends can easily have a shift plan from you to know when you are at home and when you have to work.
+- 🕹 For private use and for some of my work colleagues, I am also work on [ShiftcomparingAppMaui](https://github.com/bastiH96/ShiftcomparingAppMAUI.git) and [MagicTriBot](https://github.com/bastiH96/MagicTriBot.git) . Both are apps in which the user can create any number of shift plans with different shiftpatterns and compare them with each other. It should be possible to print the shift plans from the app and as CSV file so that family members or friends can easily have a shift plan from you to know when you are at home and when you have to work.
 
 - 🌱 I’m currently learning and improving my skills in C# especially .NET, ASP.NET, .NET MAUI and WPF.
 
