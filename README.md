@@ -6,7 +6,7 @@
 
 - 🕹 For private use and for some of my work colleagues, I am also work on [ShiftcomparingAppMaui](https://github.com/bastiH96/ShiftcomparingAppMAUI.git) and [MagicTriBot](https://github.com/bastiH96/MagicTriBot.git) . Both are apps in which the user can create any number of shift plans with different shiftpatterns and compare them with each other. It should be possible to print the shift plans from the app and as CSV file so that family members or friends can easily have a shift plan from you to know when you are at home and when you have to work.
 
-- 🌱 I’m currently learning and improving my skills in C# especially .NET, ASP.NET, .NET MAUI and WPF.
+- 🌱 I’m currently learning and improving my skills in C# and Python especially .NET MAUI, WPF, Pandas, Qt and Selenium.
 
 - 📫 How to reach me: sebastianhome96@gmail.com
 
